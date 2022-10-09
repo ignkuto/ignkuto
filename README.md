@@ -1,6 +1,6 @@
 Welcome to my GitHub profile. 
 
-I'm a programmer & web develope.
+I'm a programmer & web developer.
 
 You can get in contact with me via **Discord** by clicking [here](https://discord.com/users/968921452537589780/)
 
